@@ -1,0 +1,7 @@
+# ignore everything
+*
+# except for project files
+!.gitignore
+!estimlib.py
+!LICENSE
+!README.md
